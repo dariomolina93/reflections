@@ -14,4 +14,4 @@ What do you think are the pros and cons of manually choosing when to create a co
 How is the stating area different form the working directory and the repository?  What value do you think it offers?
 	The staging area is a state where it shows what is ready to be commited and what hasn't been added to the stage area.
 
-	I will add more reflections as the course progresses!
+	I will add more reflections as the course progresses! So far I'm learning a vast amount of information in this course!
